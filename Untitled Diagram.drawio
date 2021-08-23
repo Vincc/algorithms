@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-08-23T12:16:08.539Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="jkqS5dex8J7xWKLgFQ-F" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-23T12:23:18.541Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="-bpccvBHxVmAMseE32b3" version="14.9.8" type="github">
   <diagram id="QP9nSo8QodZkcCD5wGhe" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-Qf8P4i7Oqhz1paenlW5-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Qf8P4i7Oqhz1paenlW5-1" target="-Qf8P4i7Oqhz1paenlW5-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-Qf8P4i7Oqhz1paenlW5-1" value="Simple Recurrent Neural Network&lt;br&gt;(50 hidden neurons)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-Qf8P4i7Oqhz1paenlW5-1" value="Simple Recurrent Neural Network&lt;br&gt;(50 units)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="310" width="390" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Qf8P4i7Oqhz1paenlW5-4" value="Dense Layer&lt;br&gt;(256 neurons for one-hot encoding output)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
